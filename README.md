@@ -1,27 +1,5 @@
-﻿# Szyfrowanie/deszyfrowanie plików tekstowych z 
-## użyciem algorytmów: RSA, AES.
-
-
-
-
-
-## Opis algorytmów
-
-Algorytm RSA  (Rivesta-Shamira-Adlemana) jeden z pierwszych i obecnie najpopularniejszych asymetrycznych algorytmów kryptograficznych z kluczem publicznym, zaprojektowany w 1977 przez Rona Rivesta, Adiego Shamira oraz Leonarda Adlemana. Pierwszy algorytm, który może być stosowany zarówno do szyfrowania, jak i do podpisów cyfrowych. Bezpieczeństwo szyfrowania opiera się na trudności faktoryzacji dużych liczb złożonych. Jego nazwa pochodzi od pierwszych liter nazwisk jego twórców.
-Algorytm AES (Advanced Encryption Standard) symetryczny szyfr blokowy przyjęty przez  Narodowy Instytut Standaryzacji i Technologii (NIST) jako standard FIPS-197 w wyniku konkursu ogłoszonego w 1997 roku. Advanced Encryption Standard jest oparty na algorytmie Rijndaela, którego autorami są belgijscy kryptografowie, Joan Daemen i Vincent Rijmen. Zaprezentowali oni swoją propozycję szyfru Instytucji NIST w ramach ogłoszonego konkursu. Rijndael jest rodziną szyfrów o różnych długościach klucza oraz różnych wielkościach bloków.
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Szyfrowanie/deszyfrowanie plików tekstowych
+## z użyciem algorytmów: RSA, AES.
 
 
 # Właściwości Kontrolek
